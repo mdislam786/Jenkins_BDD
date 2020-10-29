@@ -1,0 +1,6 @@
+22:35:45.250 [main] INFO  FrameworkHybrid.stepDefinitions.LoginSteps - User is in the login Page
+22:35:45.856 [main] INFO  FrameworkHybrid.stepDefinitions.LoginSteps - User is in the login Page
+22:35:49.746 [main] INFO  FrameworkHybrid.stepDefinitions.Hooks - Browser Closed
+22:38:50.689 [main] INFO  FrameworkHybrid.stepDefinitions.Hooks - Browser Opened
+22:38:51.884 [main] INFO  FrameworkHybrid.stepDefinitions.LoginSteps - User is in the login Page
+22:38:52.373 [main] INFO  FrameworkHybrid.stepDefinitions.LoginSteps - User is in the login Page

@@ -1,0 +1,7 @@
+22:43:32.673 [main] INFO  FrameworkHybrid.stepDefinitions.Hooks - Browser Closed
+22:43:35.847 [main] INFO  FrameworkHybrid.stepDefinitions.Hooks - Browser Opened
+22:43:35.848 [main] INFO  FrameworkHybrid.stepDefinitions.Hooks - Asma Begum
+22:43:36.755 [main] INFO  FrameworkHybrid.stepDefinitions.LoginSteps - User is in the login Page
+22:43:39.151 [main] INFO  FrameworkHybrid.stepDefinitions.Hooks - Browser Closed
+22:52:01.007 [main] INFO  stepDefinitions.Hooks - Browser Opened
+22:52:01.014 [main] INFO  stepDefinitions.Hooks - Asma Begum

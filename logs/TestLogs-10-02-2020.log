@@ -1,0 +1,8 @@
+22:52:03.476 [main] INFO  stepDefinitions.LoginSteps - User is in the login Page
+22:52:09.395 [main] INFO  stepDefinitions.LoginSteps -  Login validated!
+22:52:10.400 [main] INFO  stepDefinitions.Hooks - Browser Closed
+22:52:13.579 [main] INFO  stepDefinitions.Hooks - Browser Opened
+22:52:13.580 [main] INFO  stepDefinitions.Hooks - Asma Begum
+22:52:15.905 [main] INFO  stepDefinitions.LoginSteps - User is in the login Page
+22:52:19.163 [main] INFO  stepDefinitions.Hooks - Browser Closed
+22:46:12.105 [main] INFO  stepDefinitions.Hooks - Browser Opened

@@ -1,0 +1,6 @@
+20:41:16.148 [main] INFO  FrameworkHybrid.stepDefinitions.Hooks - Browser Closed
+20:41:18.270 [main] INFO  FrameworkHybrid.stepDefinitions.Hooks - Browser Opened
+20:41:19.709 [main] INFO  FrameworkHybrid.stepDefinitions.LoginSteps - User is in the login Page
+20:41:20.503 [main] INFO  FrameworkHybrid.stepDefinitions.LoginSteps - User is in the login Page
+20:41:26.418 [main] INFO  FrameworkHybrid.stepDefinitions.LoginSteps - Contact info submitted!
+20:41:26.421 [main] INFO  FrameworkHybrid.stepDefinitions.LoginSteps - AddContact info submitted!
